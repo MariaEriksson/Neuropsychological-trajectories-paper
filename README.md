@@ -1,6 +1,6 @@
 # Neuropsychological-trajectories-paper
 
-This repository is for the paper entitled “Long-term neuropsychological trajectories in children with drug-resistant focal epilepsy: does surgery halt decline?”. 
+This repository is for the paper entitled “Long-term neuropsychological trajectories in children with epilepsy: does surgery halt decline?”. 
 
 Brain publication: https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae121/7655555?searchresult=1
  
